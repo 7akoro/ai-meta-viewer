@@ -1,0 +1,1 @@
+# NovelAI Metadata Viewer - Releases
